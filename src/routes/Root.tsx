@@ -20,10 +20,9 @@ function Root() {
       <p>
         {
           getHall !== "" ?
-            <Link to={"/"}> {getHall}</Link>
+            <Link to={"/" + getHall}> {getHall}</Link>
             : ""
         }
-
       </p>
     </>
   )
