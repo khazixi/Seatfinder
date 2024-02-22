@@ -1,0 +1,6 @@
+- [ ] Support All Dining Halls
+    - [ ] Wocester
+    - [ ] Frank
+    - [ ] Hampshire
+    - [ ] Berkshire
+- [ ] Offline Support (PWA)
