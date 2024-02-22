@@ -4,3 +4,16 @@
     - [ ] Hampshire
     - [ ] Berkshire
 - [ ] Offline Support (PWA)
+- [ ] Get Seating Arrangement & Maps
+    - [ ] Wocester
+        - [ ] Map
+        - [ ] Seating
+    - [ ] Frank
+        - [ ] Map
+        - [ ] Seating
+    - [ ] Hampshire
+        - [ ] Map
+        - [ ] Seating
+    - [ ] Berkshire
+        - [ ] Map
+        - [ ] Seating
