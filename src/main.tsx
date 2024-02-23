@@ -3,7 +3,7 @@ import ReactDOM from 'react-dom/client'
 import Root from './routes/Root'
 // import './index.css'
 import { RouterProvider, createBrowserRouter } from 'react-router-dom'
-import Wocester from './routes/Wocester'
+import Wocester from "./routes/Wocester"
 import Franklin from './routes/Franklin'
 import Berkshire from './routes/Berkshire'
 import Hampshire from './routes/Hampsire'

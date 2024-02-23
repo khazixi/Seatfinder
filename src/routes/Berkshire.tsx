@@ -1,11 +1,13 @@
-export default function Wocester() {
+import { Link } from "react-router-dom"
+
+export default function Berkshire() {
   return (
     <>
-      <h1> Wocester </h1>
+      <Link to="/"> Back </Link>
+      <h1> Berkshire </h1>
 
-      <p> Wocester Dining Commons </p>
+      <p> Berkshire Dining Commons </p>
     </>
   )
-
 }
 
