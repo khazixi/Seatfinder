@@ -1,7 +1,7 @@
 import { useRef, useState } from 'react'
 import { Link } from 'react-router-dom'
 
-function Root() {
+export default function Root() {
   const selectRef = useRef<HTMLSelectElement>(null)
   const [getHall, setHall] = useState("")
 
@@ -13,7 +13,7 @@ function Root() {
         <option value=""> Please Select a Dining Hall </option>
         <option value='wocester'> Wocester </option>
         <option value='franklin'> Franklin </option>
-        <option value='hampsire'> Hampsire </option>
+        <option value='hampshire'> Hampshire </option>
         <option value='berkshire'> Berkshire </option>
       </select>
 
@@ -27,5 +27,3 @@ function Root() {
     </>
   )
 }
-
-export default Root
