@@ -5,7 +5,7 @@ function Marker({ coordinate }: { coordinate: URLSearchParams }) {
   if (coordinate.get('x') === null) return ""
   else if (coordinate.get('y') === null) return ""
 
-  const position = {
+  const position: Record<string, string> = {
     position: 'absolute',
     left: `${coordinate.get('x')}px`,
     top: `${coordinate.get('y')}px`,
