@@ -5,10 +5,11 @@ function Marker({ coordinate }: { coordinate: URLSearchParams }) {
   if (coordinate.get('x') === null) return ""
   else if (coordinate.get('y') === null) return ""
 
+
   const position: Record<string, string> = {
     position: 'absolute',
-    left: `${coordinate.get('x')}px`,
-    top: `${coordinate.get('y')}px`,
+    left: `${Number.parseInt(coordinate.get('x')!) - 25}px`,
+    top: `${Number.parseInt(coordinate.get('y')!) - 25}px`,
     height: '50px',
     width: '50px',
     'border-radius': '100%',
@@ -37,7 +38,7 @@ export default function Hampshire() {
         params.set('y', e.clientY.toString())
         setSearchParams(params)
 
-      }}/>
+      }} />
 
       <Marker coordinate={searchParams} />
     </>
