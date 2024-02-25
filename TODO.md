@@ -1,18 +1,18 @@
 - [ ] Support All Dining Halls
-    - [ ] Wocester
+    - [ ] Worcester
     - [ ] Frank
     - [ ] Hampshire
     - [ ] Berkshire
 - [ ] Offline Support (PWA)
 - [ ] Get Seating Arrangement & Maps
-    - [ ] Wocester
+    - [ ] Worcester
         - [ ] Map
         - [ ] Seating
     - [ ] Frank
         - [ ] Map
         - [ ] Seating
     - [ ] Hampshire
-        - [ ] Map
+        - [X] Map
         - [ ] Seating
     - [ ] Berkshire
         - [ ] Map
