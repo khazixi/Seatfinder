@@ -1,6 +1,10 @@
-import { Link } from "react-router-dom";
+import { Link, createFileRoute } from "@tanstack/react-router";
 
-export default function Wocester() {
+export const Route = createFileRoute('/worcester')({
+  component: Worcester,
+})
+
+export default function Worcester() {
   return (
     <>
       <Link to={"/"}>Back</Link>

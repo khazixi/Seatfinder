@@ -1,7 +1,11 @@
 import { useRef, useState } from 'react'
-import { Link } from 'react-router-dom'
+import { Link, createFileRoute } from '@tanstack/react-router'
 
-export default function Root() {
+export const Route = createFileRoute('/')({
+  component: Root
+})
+
+function Root() {
   const selectRef = useRef<HTMLSelectElement>(null)
   const [getHall, setHall] = useState("")
 

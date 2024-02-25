@@ -1,4 +1,8 @@
-import { Link } from "react-router-dom";
+import { Link, createFileRoute } from "@tanstack/react-router";
+
+export const Route = createFileRoute('/franklin')({
+  component: Franklin,
+})
 
 export default function Franklin() {
   return (

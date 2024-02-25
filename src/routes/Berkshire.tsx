@@ -1,6 +1,10 @@
-import { Link } from "react-router-dom"
+import { Link, createFileRoute } from "@tanstack/react-router"
 
-export default function Berkshire() {
+export const Route = createFileRoute('/berkshire')({
+  component: Berkshire,
+})
+
+function Berkshire() {
   return (
     <>
       <Link to="/"> Back </Link>
