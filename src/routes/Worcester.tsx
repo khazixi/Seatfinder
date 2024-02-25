@@ -4,9 +4,10 @@ export default function Wocester() {
   return (
     <>
       <Link to={"/"}>Back</Link>
-      <h1> Wocester </h1>
+      <h1> Worcester </h1>
 
-      <p> Wocester Dining Commons </p>
+      <p> Worcester Dining Commons </p>
+
     </>
   )
 

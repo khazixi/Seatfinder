@@ -11,7 +11,7 @@ export default function Root() {
 
       <select ref={selectRef} onChange={e => setHall(() => e.target.value)}>
         <option value=""> Please Select a Dining Hall </option>
-        <option value='wocester'> Wocester </option>
+        <option value='worcester'> Worcester </option>
         <option value='franklin'> Franklin </option>
         <option value='hampshire'> Hampshire </option>
         <option value='berkshire'> Berkshire </option>
