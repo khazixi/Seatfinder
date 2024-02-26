@@ -15,10 +15,10 @@ function Root() {
 
       <select ref={selectRef} onChange={e => setHall(() => e.target.value)}>
         <option value=""> Please Select a Dining Hall </option>
-        <option value='worcester'> Worcester </option>
-        <option value='franklin'> Franklin </option>
-        <option value='hampshire'> Hampshire </option>
-        <option value='berkshire'> Berkshire </option>
+        <option value='Worcester'> Worcester </option>
+        <option value='Franklin'> Franklin </option>
+        <option value='Hampshire'> Hampshire </option>
+        <option value='Berkshire'> Berkshire </option>
       </select>
 
       <p>

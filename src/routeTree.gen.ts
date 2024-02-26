@@ -11,31 +11,31 @@
 // Import Routes
 
 import { Route as rootRoute } from './routes/__root'
-import { Route as WorcesterImport } from './routes/worcester'
 import { Route as HampshireImport } from './routes/hampshire'
-import { Route as FranklinImport } from './routes/franklin'
-import { Route as BerkshireImport } from './routes/berkshire'
+import { Route as WorcesterImport } from './routes/Worcester'
+import { Route as FranklinImport } from './routes/Franklin'
+import { Route as BerkshireImport } from './routes/Berkshire'
 import { Route as IndexImport } from './routes/index'
 
 // Create/Update Routes
-
-const WorcesterRoute = WorcesterImport.update({
-  path: '/worcester',
-  getParentRoute: () => rootRoute,
-} as any)
 
 const HampshireRoute = HampshireImport.update({
   path: '/hampshire',
   getParentRoute: () => rootRoute,
 } as any)
 
+const WorcesterRoute = WorcesterImport.update({
+  path: '/Worcester',
+  getParentRoute: () => rootRoute,
+} as any)
+
 const FranklinRoute = FranklinImport.update({
-  path: '/franklin',
+  path: '/Franklin',
   getParentRoute: () => rootRoute,
 } as any)
 
 const BerkshireRoute = BerkshireImport.update({
-  path: '/berkshire',
+  path: '/Berkshire',
   getParentRoute: () => rootRoute,
 } as any)
 
@@ -52,20 +52,20 @@ declare module '@tanstack/react-router' {
       preLoaderRoute: typeof IndexImport
       parentRoute: typeof rootRoute
     }
-    '/berkshire': {
+    '/Berkshire': {
       preLoaderRoute: typeof BerkshireImport
       parentRoute: typeof rootRoute
     }
-    '/franklin': {
+    '/Franklin': {
       preLoaderRoute: typeof FranklinImport
+      parentRoute: typeof rootRoute
+    }
+    '/Worcester': {
+      preLoaderRoute: typeof WorcesterImport
       parentRoute: typeof rootRoute
     }
     '/hampshire': {
       preLoaderRoute: typeof HampshireImport
-      parentRoute: typeof rootRoute
-    }
-    '/worcester': {
-      preLoaderRoute: typeof WorcesterImport
       parentRoute: typeof rootRoute
     }
   }
@@ -77,8 +77,8 @@ export const routeTree = rootRoute.addChildren([
   IndexRoute,
   BerkshireRoute,
   FranklinRoute,
-  HampshireRoute,
   WorcesterRoute,
+  HampshireRoute,
 ])
 
 /* prettier-ignore-end */
