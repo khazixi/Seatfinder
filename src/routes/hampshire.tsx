@@ -1,15 +1,15 @@
 import { Link, createFileRoute, useNavigate } from "@tanstack/react-router";
 import Vite from "/hampsire.svg"
-import { z } from 'zod'
+import { number, object, optional, parse } from 'valibot'
 
-const coordinateSchema = z.object({
-  x: z.number().optional(),
-  y: z.number().optional(),
+const coordinateSchema = object({
+  x: optional(number()),
+  y: optional(number())
 })
 
 export const Route = createFileRoute('/hampshire')({
   component: Hampshire,
-  validateSearch: (search) => coordinateSchema.parse(search)
+  validateSearch: (search) => parse(coordinateSchema, search)
 
 })
 
