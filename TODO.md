@@ -1,19 +1,16 @@
-- [ ] Support All Dining Halls
-    - [ ] Worcester
-    - [ ] Frank
-    - [ ] Hampshire
-    - [ ] Berkshire
+- [X] Support All Dining Halls
+    - [X] Worcester
+    - [X] Frank
+    - [X] Hampshire
+    - [X] Berkshire
 - [ ] Offline Support (PWA)
+- [ ] Add CSS to the page for a proper theme
 - [ ] Get Seating Arrangement & Maps
     - [ ] Worcester
-        - [ ] Map
-        - [ ] Seating
+        - [X] Map
     - [ ] Frank
-        - [ ] Map
-        - [ ] Seating
+        - [X] Map
     - [ ] Hampshire
         - [X] Map
-        - [ ] Seating
     - [ ] Berkshire
-        - [ ] Map
-        - [ ] Seating
+        - [X] Map
