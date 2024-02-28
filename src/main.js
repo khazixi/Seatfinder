@@ -1,5 +1,6 @@
 function renderRoot() {
   document.querySelector('#app').innerHTML = `
+    <h1> Seatfinder </h1>
     <select>
       <option value=""> Select A Dining Hall </option>
       <option value="worcester"> Worcester </option>
@@ -55,6 +56,7 @@ function addMarker(x, y) {
   p.style.width = '50px'
   p.style.left = `${x - 25}px`
   p.style.top = `${y - 25}px`
+  p.style.borderRadius = '100%'
 
   document.querySelector('p')?.remove()
   document.querySelector('#app').insertAdjacentElement('beforeend', p)
