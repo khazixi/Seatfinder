@@ -1,19 +1,3 @@
-async function registerServiceWorker() {
-  if ('serviceWorker' in navigator) {
-    try {
-      // WARNING: This may not pick up the service worker, so this will need to be adjusted later
-      const registration = await navigator.serviceWorker.register('./sw.js', {
-        scope: '/'
-      })
-
-      // NOTE: Add events when necessary based on the service worker registration
-
-    } catch (error) {
-      console.log(`Registration failed with error: ${error}`)
-    }
-  }
-}
-
 function renderRoot() {
   document.querySelector('#app').innerHTML = `
     <h1> Seatfinder </h1>
@@ -115,6 +99,5 @@ addEventListener('popstate', (e) => {
   }
 })
 
-registerServiceWorker()
 renderRoot()
 history.replaceState({ name: 'base' }, "", "/");
