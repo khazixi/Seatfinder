@@ -3,7 +3,7 @@
     - [X] Frank
     - [X] Hampshire
     - [X] Berkshire
-- [ ] Offline Support (PWA)
+- [X] Offline Support (PWA)
 - [ ] Add CSS to the page for a proper theme
 - [ ] Get Seating Arrangement & Maps
     - [ ] Worcester
