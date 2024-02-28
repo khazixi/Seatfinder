@@ -9,6 +9,7 @@
     "preview": "vite preview"
   },
   "devDependencies": {
-    "vite": "^5.1.4"
+    "vite": "^5.1.4",
+    "vite-plugin-pwa": "^0.19.1"
   }
 }
