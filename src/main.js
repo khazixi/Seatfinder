@@ -99,5 +99,14 @@ addEventListener('popstate', (e) => {
   }
 })
 
-renderRoot()
-history.replaceState({ name: 'base' }, "", "/");
+const url = new URL(window.location)
+if (url.pathname === '/') {
+  renderRoot()
+  history.replaceState({ name: 'base' }, "", "/");
+} else {
+  const hall = url.pathname.slice(1)
+  const x = parseInt(url.searchParams.get('x'))
+  const y = parseInt(url.searchParams.get('y'))
+  renderEditor(hall)
+  addMarker(x, y)
+}
