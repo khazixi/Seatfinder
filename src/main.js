@@ -8,6 +8,14 @@ function renderRoot() {
       <option value="hampshire"> Hampshire </option>
       <option value="berkshire"> Berkshire </option>
     </select>
+
+    <h2> How to use </h2>
+    <ol>
+      <li> Select A dining hall </li>
+      <li> Click on the map where you are seated </li>
+      <li> Copy the Link </li>
+      <li> Share it with your friends</li>
+    </ol>
     <div id="content"></div>
   `
   const selectQuery = document.querySelector('select');
@@ -17,7 +25,7 @@ function renderRoot() {
 /** @param {string} name */
 function renderEditor(name) {
   document.querySelector('#app').innerHTML = `
-      <h1> ${name} </h1>
+      <h1> ${name[0].toUpperCase() + name.slice(1)} </h1>
       <button> Back </button>
       <h2> Map goes here </h2>
       <img src="/${name}.svg">
