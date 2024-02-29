@@ -1,13 +1,223 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
-<svg width="210mm" height="297mm" version="1.1" viewBox="0 0 210 297" xmlns="http://www.w3.org/2000/svg">
- <g stroke="#000" stroke-linejoin="round" stroke-width="2">
-  <rect x="23.411" y="77.731" width="179.05" height="103.77" fill="#c9c9c9"/>
-  <g fill="#040404">
-   <rect x="70.332" y="156.52" width="85.033" height="24.213" ry="0"/>
-   <rect x="23.924" y="146.72" width="40.066" height="33.725"/>
-   <ellipse cx="112.56" cy="119.19" rx="33.581" ry="18.592"/>
-   <rect x="166.32" y="133.75" width="29.978" height="3.4589" rx="0" ry="1.2971"/>
+
+<svg
+   width="800"
+   height="600"
+   viewBox="0 0 211.66666 158.75"
+   version="1.1"
+   id="svg1"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1" />
+  <g
+     id="layer1">
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:3.39992;stroke-linejoin:round;stroke-opacity:1"
+       id="rect2"
+       width="207.98965"
+       height="156.29439"
+       x="1.8954931"
+       y="1.0693665" />
+    <rect
+       style="fill:#808080;fill-opacity:1;stroke:#808080;stroke-width:2.49891;stroke-linejoin:round;stroke-opacity:1"
+       id="rect3"
+       width="49.984329"
+       height="37.039909"
+       x="3.7013009"
+       y="118.47516" />
+    <rect
+       style="fill:#808080;fill-opacity:1;stroke:#808080;stroke-width:2.86816;stroke-linejoin:round;stroke-opacity:1"
+       id="rect3-8"
+       width="100.96127"
+       height="24.157715"
+       x="62.675041"
+       y="131.45445" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:7.05556px;font-family:Avenir;-inkscape-font-specification:'Avenir Medium';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:3.996;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:0"
+       x="26.320322"
+       y="140.66269"
+       id="text4"><tspan
+         id="tspan4"
+         style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:3.996;stroke-opacity:0"
+         x="26.320322"
+         y="140.66269">Dish Return</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:7.05556px;font-family:Avenir;-inkscape-font-specification:'Avenir Medium';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:3.996;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:0"
+       x="108.34621"
+       y="145.10675"
+       id="text4-5"><tspan
+         id="tspan4-5"
+         style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:3.996;stroke-opacity:0"
+         x="108.34621"
+         y="145.10675">Entrance</tspan></text>
+    <ellipse
+       style="fill:#808080;fill-opacity:1;stroke:#000000;stroke-width:3.61985;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:0"
+       id="path4"
+       cx="103.93944"
+       cy="71.639229"
+       rx="70.087944"
+       ry="43.98336" />
+    <rect
+       style="fill:#808080;fill-opacity:1;stroke:#000000;stroke-width:4.82206;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:0"
+       id="rect4"
+       width="61.307156"
+       height="12.549841"
+       x="45.718506"
+       y="2.1389527" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:7.05556px;font-family:Avenir;-inkscape-font-specification:'Avenir Medium';text-align:center;text-anchor:middle;fill:#808080;fill-opacity:1;stroke:#000000;stroke-width:3.996;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:0"
+       x="59.11285"
+       y="10.787017"
+       id="text5"><tspan
+         id="tspan5"
+         style="fill:#000000;fill-opacity:1;stroke-width:3.996"
+         x="59.11285"
+         y="10.787017">Yogurt</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:7.05556px;font-family:Avenir;-inkscape-font-specification:'Avenir Medium';text-align:center;text-anchor:middle;fill:#808080;fill-opacity:1;stroke:#000000;stroke-width:3.996;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:0"
+       x="92.56353"
+       y="10.656767"
+       id="text5-5"><tspan
+         id="tspan5-2"
+         style="fill:#000000;fill-opacity:1;stroke-width:3.996"
+         x="92.56353"
+         y="10.656767">Waffles</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:7.05556px;font-family:Avenir;-inkscape-font-specification:'Avenir Medium';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:3.996;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:0"
+       x="118.60978"
+       y="110.25674"
+       id="text6"><tspan
+         id="tspan6"
+         style="stroke-width:3.996"
+         x="118.60978"
+         y="110.25674">Latin</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:7.05556px;font-family:Avenir;-inkscape-font-specification:'Avenir Medium';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:3.996;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:0"
+       x="70.169479"
+       y="98.184746"
+       id="text6-6"><tspan
+         id="tspan6-3"
+         style="stroke-width:3.996"
+         x="70.169479"
+         y="98.184746">Street Food</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:7.05556px;font-family:Avenir;-inkscape-font-specification:'Avenir Medium';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:3.996;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:0"
+       x="51.65472"
+       y="84.547539"
+       id="text6-6-4"><tspan
+         id="tspan6-3-6"
+         style="stroke-width:3.996"
+         x="51.65472"
+         y="84.547539">Stir Fry</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:7.05556px;font-family:Avenir;-inkscape-font-specification:'Avenir Medium';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:3.996;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:0"
+       x="105.1973"
+       y="38.703991"
+       id="text6-6-4-2"><tspan
+         id="tspan6-3-6-9"
+         style="stroke-width:3.996"
+         x="105.1973"
+         y="38.703991">Sushi</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:7.05556px;font-family:Avenir;-inkscape-font-specification:'Avenir Medium';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:3.996;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:0"
+       x="148.37242"
+       y="53.370884"
+       id="text6-6-4-2-5"><tspan
+         id="tspan6-3-6-9-5"
+         style="stroke-width:3.996"
+         x="148.37242"
+         y="53.370884">Desserts</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:7.05556px;font-family:Avenir;-inkscape-font-specification:'Avenir Medium';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:3.996;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:0"
+       x="50.022057"
+       y="60.542187"
+       id="text6-6-4-2-5-0"><tspan
+         id="tspan6-3-6-9-5-4"
+         style="stroke-width:3.996"
+         x="50.022057"
+         y="60.542187">Grill</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:7.05556px;font-family:Avenir;-inkscape-font-specification:'Avenir Medium';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:3.996;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:0"
+       x="150.28499"
+       y="78.791458"
+       id="text6-6-4-2-5-1"><tspan
+         id="tspan6-3-6-9-5-9"
+         style="stroke-width:3.996"
+         x="150.28499"
+         y="78.791458">Gluten Free</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:7.05556px;font-family:Avenir;-inkscape-font-specification:'Avenir Medium';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:3.996;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:0"
+       x="149.27925"
+       y="93.909081"
+       id="text6-6-4-2-5-1-8"><tspan
+         id="tspan6-3-6-9-5-9-6"
+         style="stroke-width:3.996"
+         x="149.27925"
+         y="93.909081">Pasta Bar</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:7.05556px;font-family:Avenir;-inkscape-font-specification:'Avenir Medium';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:3.996;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:0"
+       x="135.84706"
+       y="103.89008"
+       id="text6-6-4-2-5-1-8-1"><tspan
+         id="tspan6-3-6-9-5-9-6-1"
+         style="stroke-width:3.996"
+         x="135.84706"
+         y="103.89008">Pizza</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:7.05556px;font-family:Avenir;-inkscape-font-specification:'Avenir Medium';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:3.996;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:0"
+       x="78.590378"
+       y="108.09934"
+       id="text7"><tspan
+         id="tspan7"
+         style="stroke-width:3.996"
+         x="78.590378"
+         y="108.09934">Noodle</tspan></text>
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:4.42542;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+       id="rect7"
+       width="32.731647"
+       height="50.525379"
+       x="176.1301"
+       y="2.2367251" />
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:3.89677;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+       id="rect8"
+       width="23.959023"
+       height="3.7388647"
+       x="184.35822"
+       y="82.853035" />
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:#818181;stroke-width:3.89677;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+       id="rect8-6"
+       width="23.959023"
+       height="3.7388647"
+       x="184.04625"
+       y="76.285553" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:4.23333px;font-family:Avenir;-inkscape-font-specification:'Avenir Medium';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:#818181;stroke-width:3.996;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:0"
+       x="194.92235"
+       y="79.263031"
+       id="text8"><tspan
+         id="tspan8"
+         style="font-size:4.23333px;fill:#000000;fill-opacity:1;stroke:#818181;stroke-width:3.996;stroke-opacity:0"
+         x="194.92235"
+         y="79.263031">Beverages</tspan></text>
   </g>
- </g>
 </svg>
