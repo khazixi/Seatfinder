@@ -4,6 +4,8 @@
     - [X] Hampshire
     - [X] Berkshire
 - [X] Offline Support (PWA)
+    - [ ] Ensure that Service Worker Caching does not prevent link sharing
+        - Make Serive Workers Cache Assets Only?
 - [ ] Add CSS to the page for a proper theme
 - [ ] Get Seating Arrangement & Maps
     - [ ] Worcester

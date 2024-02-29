@@ -75,7 +75,6 @@ function onImageSelection(e, hall) {
 
   addMarker(x, y)
   history.pushState({ name: hall }, "", url)
-
 }
 
 addEventListener('popstate', (e) => {
@@ -99,14 +98,18 @@ addEventListener('popstate', (e) => {
   }
 })
 
-const url = new URL(window.location)
-if (url.pathname === '/') {
-  renderRoot()
-  history.replaceState({ name: 'base' }, "", "/");
-} else {
-  const hall = url.pathname.slice(1)
-  const x = parseInt(url.searchParams.get('x'))
-  const y = parseInt(url.searchParams.get('y'))
-  renderEditor(hall)
-  addMarker(x, y)
+function route() {
+  const url = new URL(window.location)
+  if (url.pathname === '/') {
+    renderRoot()
+    history.replaceState({ name: 'base' }, "", "/");
+  } else {
+    const hall = url.pathname.slice(1)
+    const x = parseInt(url.searchParams.get('x'))
+    const y = parseInt(url.searchParams.get('y'))
+    renderEditor(hall)
+    addMarker(x, y)
+  }
 }
+
+route()
