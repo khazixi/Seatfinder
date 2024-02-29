@@ -1,16 +1,340 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
-<svg width="210mm" height="297mm" version="1.1" viewBox="0 0 210 297" xmlns="http://www.w3.org/2000/svg">
- <g stroke="#000" stroke-linejoin="round">
-  <rect x="49.347" y="12.009" width="136.64" height="266.76" fill="#afafaf" stroke-width="2.2587"/>
-  <rect x="6.7029" y="107.77" width="41.791" height="170.21" fill="#afafaf" stroke-width="2.072"/>
-  <g fill="#020202">
-   <rect x="83.726" y="202.53" width="65.057" height="44.126" stroke-width="2"/>
-   <rect x="176.39" y="97.186" width="7.5874" height="150.15" stroke-width="2.8984"/>
-   <rect x="84.538" y="106.04" width="64.563" height="54.946" stroke-width="2.4937"/>
-   <rect x="82.645" y="44.742" width="67.784" height="34.407" stroke-width="2.1016"/>
-   <rect x="162.93" y="12.446" width="23.76" height="15.84" stroke-width="2"/>
-   <rect x="171.41" y="26.589" width="13.011" height="33.377" stroke-width="2"/>
+
+<svg
+   width="800"
+   height="600"
+   viewBox="0 0 211.66666 158.75"
+   version="1.1"
+   id="svg1"
+   sodipodi:docname="worcester.svg"
+   inkscape:version="1.3.2 (091e20e, 2023-11-25)"
+   inkscape:export-filename="worcester.svg"
+   inkscape:export-xdpi="192"
+   inkscape:export-ydpi="192"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="0.63658921"
+     inkscape:cx="383.29271"
+     inkscape:cy="349.51896"
+     inkscape:window-width="1312"
+     inkscape:window-height="738"
+     inkscape:window-x="0"
+     inkscape:window-y="25"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer1"
+     showguides="false" />
+  <defs
+     id="defs1">
+    <rect
+       x="31.121187"
+       y="10.824761"
+       width="31.121187"
+       height="16.913689"
+       id="rect27" />
+  </defs>
+  <g
+     id="layer1">
+    <rect
+       style="fill:#ffffff;stroke:#000000;stroke-width:3.98189;stroke-linejoin:round"
+       id="rect1"
+       width="209.13608"
+       height="106.98781"
+       x="0.79848969"
+       y="2.1449583"
+       ry="0"
+       rx="0" />
+    <rect
+       style="fill:#ffffff;stroke:#000000;stroke-width:3.90086;stroke-linejoin:round"
+       id="rect2"
+       width="111.28751"
+       height="47.414005"
+       x="98.687279"
+       y="109.48386"
+       ry="0" />
+    <rect
+       style="fill:#808080;stroke:#808080;stroke-width:3.97491;stroke-linejoin:round;stroke-opacity:1"
+       id="rect3"
+       width="31.504297"
+       height="30.405005"
+       x="4.2111568"
+       y="5.60531"
+       ry="0" />
+    <rect
+       style="fill:#808080;stroke:#808080;stroke-width:3.97491;stroke-linejoin:round;stroke-opacity:1"
+       id="rect4"
+       width="160.17847"
+       height="30.02013"
+       x="47.482121"
+       y="5.6053095"
+       ry="0"
+       rx="0" />
+    <rect
+       style="fill:#808080;stroke:#808080;stroke-width:3.97491;stroke-linejoin:round;stroke-opacity:1"
+       id="rect5"
+       width="14.803225"
+       height="30.405005"
+       x="18.255241"
+       y="51.790127"
+       ry="0"
+       rx="0" />
+    <rect
+       style="fill:#808080;stroke:#808080;stroke-width:3.97491;stroke-linejoin:round;stroke-opacity:1"
+       id="rect5-0"
+       width="14.803225"
+       height="30.405005"
+       x="29.210546"
+       y="49.344631"
+       ry="0"
+       rx="0" />
+    <ellipse
+       style="fill:#808080;stroke:#808080;stroke-width:3.97491;stroke-linejoin:round;stroke-opacity:1"
+       id="path6"
+       cx="45.584274"
+       cy="64.490952"
+       rx="15.941935"
+       ry="15.010065" />
+    <rect
+       style="fill:#808080;stroke:#808080;stroke-width:3.71193;stroke-linejoin:round;stroke-opacity:1"
+       id="rect16"
+       width="34.422432"
+       height="27.590813"
+       x="86.067673"
+       y="50.887981"
+       ry="0" />
+    <rect
+       style="fill:#808080;stroke:#808080;stroke-width:2.64602;stroke-linejoin:round;stroke-opacity:1"
+       id="rect16-9"
+       width="21.81645"
+       height="22.121286"
+       x="156.39346"
+       y="52.288979"
+       ry="0" />
+    <ellipse
+       style="fill:#808080;stroke:#808080;stroke-width:3.97491;stroke-linejoin:round;stroke-opacity:1"
+       id="path16"
+       cx="175.39716"
+       cy="73.727913"
+       rx="8.3505373"
+       ry="8.4672165" />
+    <rect
+       style="fill:#808080;stroke:#808080;stroke-width:3.97491;stroke-linejoin:round;stroke-opacity:1"
+       id="rect17"
+       width="47.446236"
+       height="24.631905"
+       x="123.77567"
+       y="94.895958" />
+    <text
+       xml:space="preserve"
+       style="font-style:oblique;font-weight:900;font-size:5.60904px;font-family:Avenir;-inkscape-font-specification:'Avenir Heavy Oblique';text-align:center;text-anchor:middle;fill:#808080;stroke:#808080;stroke-width:3.97491;stroke-linejoin:round;stroke-opacity:1"
+       x="19.399876"
+       y="32.569099"
+       id="text18"
+       transform="scale(0.99308604,1.0069621)"><tspan
+         id="tspan18"
+         style="font-style:normal;font-size:5.60904px;fill:#000000;stroke:#000000;stroke-width:3.97491;stroke-opacity:0"
+         x="19.399876"
+         y="32.569099">Bathroom</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:oblique;font-weight:900;font-size:5.60904px;font-family:Avenir;-inkscape-font-specification:'Avenir Heavy Oblique';text-align:center;text-anchor:middle;fill:#808080;stroke:#808080;stroke-width:3.97491;stroke-linejoin:round;stroke-opacity:1"
+       x="40.48349"
+       y="55.53196"
+       id="text18-5"
+       transform="scale(0.99308604,1.0069621)"><tspan
+         id="tspan18-9"
+         style="font-style:normal;font-size:5.60904px;fill:#000000;stroke:#000000;stroke-width:3.97491;stroke-opacity:0"
+         x="40.48349"
+         y="55.53196">Latin</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:oblique;font-weight:900;font-size:4.20679px;font-family:Avenir;-inkscape-font-specification:'Avenir Heavy Oblique';text-align:center;text-anchor:middle;fill:#000000;stroke:#000000;stroke-width:3.97491;stroke-linejoin:round;stroke-opacity:0"
+       x="54.202827"
+       y="35.169182"
+       id="text19"
+       transform="scale(0.99308604,1.0069621)"><tspan
+         id="tspan19"
+         style="font-style:normal;font-size:4.20679px;stroke-width:3.97491"
+         x="54.202827"
+         y="35.169182">Desert</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:oblique;font-weight:900;font-size:4.20679px;font-family:Avenir;-inkscape-font-specification:'Avenir Heavy Oblique';text-align:center;text-anchor:middle;fill:#000000;stroke:#000000;stroke-width:3.97491;stroke-linejoin:round;stroke-opacity:0"
+       x="73.292038"
+       y="35.628265"
+       id="text19-2"
+       transform="scale(0.99308604,1.0069621)"><tspan
+         id="tspan19-6"
+         style="font-style:normal;font-size:4.20679px;stroke-width:3.97491"
+         x="73.292038"
+         y="35.628265">Bakery</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:oblique;font-weight:900;font-size:4.20679px;font-family:Avenir;-inkscape-font-specification:'Avenir Heavy Oblique';text-align:center;text-anchor:middle;fill:#000000;stroke:#000000;stroke-width:3.97491;stroke-linejoin:round;stroke-opacity:0"
+       x="91.613365"
+       y="35.281281"
+       id="text19-2-8"
+       transform="scale(0.99308604,1.0069621)"><tspan
+         id="tspan19-6-7"
+         style="font-style:normal;font-size:4.20679px;stroke-width:3.97491"
+         x="91.613365"
+         y="35.281281">Pizza</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:oblique;font-weight:900;font-size:4.20679px;font-family:Avenir;-inkscape-font-specification:'Avenir Heavy Oblique';text-align:center;text-anchor:middle;fill:#000000;stroke:#000000;stroke-width:3.97491;stroke-linejoin:round;stroke-opacity:0"
+       x="112.32426"
+       y="35.338665"
+       id="text19-2-8-7"
+       transform="scale(0.99308604,1.0069621)"><tspan
+         id="tspan19-6-7-4"
+         style="font-style:normal;font-size:4.20679px;stroke-width:3.97491"
+         x="112.32426"
+         y="35.338665">Greens</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:oblique;font-weight:900;font-size:4.20679px;font-family:Avenir;-inkscape-font-specification:'Avenir Heavy Oblique';text-align:center;text-anchor:middle;fill:#000000;stroke:#000000;stroke-width:3.97491;stroke-linejoin:round;stroke-opacity:0"
+       x="133.57719"
+       y="35.590908"
+       id="text19-2-8-7-2"
+       transform="scale(0.99308604,1.0069621)"><tspan
+         id="tspan19-6-7-4-2"
+         style="font-style:normal;font-size:4.20679px;stroke-width:3.97491"
+         x="133.57719"
+         y="35.590908">Wok</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:oblique;font-weight:900;font-size:4.20679px;font-family:Avenir;-inkscape-font-specification:'Avenir Heavy Oblique';text-align:center;text-anchor:middle;fill:#000000;stroke:#000000;stroke-width:3.97491;stroke-linejoin:round;stroke-opacity:0"
+       x="157.45459"
+       y="35.30302"
+       id="text19-2-8-7-2-0"
+       transform="scale(0.99308604,1.0069621)"><tspan
+         id="tspan19-6-7-4-2-1"
+         style="font-style:normal;font-size:4.20679px;stroke-width:3.97491"
+         x="157.45459"
+         y="35.30302">Streetfood</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:oblique;font-weight:900;font-size:4.20679px;font-family:Avenir;-inkscape-font-specification:'Avenir Heavy Oblique';text-align:center;text-anchor:middle;fill:#000000;stroke:#000000;stroke-width:3.97491;stroke-linejoin:round;stroke-opacity:0"
+       x="184.21396"
+       y="35.397869"
+       id="text20"
+       transform="scale(0.99308604,1.0069621)"><tspan
+         id="tspan20"
+         style="font-style:normal;font-size:4.20679px;stroke-width:3.97491"
+         x="184.21396"
+         y="35.397869">Beverage</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:oblique;font-weight:900;font-size:4.20679px;font-family:Avenir;-inkscape-font-specification:'Avenir Heavy Oblique';text-align:center;text-anchor:middle;fill:#000000;stroke:#000000;stroke-width:3.97491;stroke-linejoin:round;stroke-opacity:0"
+       x="203.65834"
+       y="35.143887"
+       id="text20-9"
+       transform="scale(0.99308604,1.0069621)"><tspan
+         id="tspan20-4"
+         style="font-style:normal;font-size:4.20679px;stroke-width:3.97491"
+         x="203.65834"
+         y="35.143887">Exit</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:oblique;font-weight:900;font-size:5.60906px;font-family:Avenir;-inkscape-font-specification:'Avenir Heavy Oblique';text-align:center;text-anchor:middle;fill:#000000;stroke:#000000;stroke-width:3.97491;stroke-linejoin:round;stroke-opacity:0"
+       x="164.38278"
+       y="70.240448"
+       id="text21"
+       transform="scale(0.99308604,1.0069621)"><tspan
+         id="tspan21"
+         style="stroke-width:3.97491"
+         x="164.38278"
+         y="70.240448">Sushi</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:oblique;font-weight:900;font-size:5.60906px;font-family:Avenir;-inkscape-font-specification:'Avenir Heavy Oblique';text-align:center;text-anchor:middle;fill:#000000;stroke:#000000;stroke-width:3.97491;stroke-linejoin:round;stroke-opacity:0"
+       x="168.35446"
+       y="57.603283"
+       id="text22"
+       transform="scale(0.99308604,1.0069621)"><tspan
+         id="tspan22"
+         style="font-style:normal;stroke-width:3.97491"
+         x="168.35446"
+         y="57.603283">Noodles</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:oblique;font-weight:900;font-size:5.60906px;font-family:Avenir;-inkscape-font-specification:'Avenir Heavy Oblique';text-align:center;text-anchor:middle;fill:#000000;stroke:#000000;stroke-width:3.97491;stroke-linejoin:round;stroke-opacity:0"
+       x="90.415398"
+       y="66.344246"
+       id="text23"
+       transform="scale(0.99308604,1.0069621)"><tspan
+         id="tspan23"
+         style="stroke-width:3.97491"
+         x="90.415398"
+         y="66.344246">Grill</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:oblique;font-weight:900;font-size:5.60906px;font-family:Avenir;-inkscape-font-specification:'Avenir Heavy Oblique';text-align:center;text-anchor:middle;fill:#000000;stroke:#000000;stroke-width:3.97491;stroke-linejoin:round;stroke-opacity:0"
+       x="103.72437"
+       y="77.461693"
+       id="text24"
+       transform="scale(0.99308604,1.0069621)"><tspan
+         id="tspan24"
+         style="stroke-width:3.97491"
+         x="103.72437"
+         y="77.461693">Salad</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:oblique;font-weight:900;font-size:5.60906px;font-family:Avenir;-inkscape-font-specification:'Avenir Heavy Oblique';text-align:center;text-anchor:middle;fill:#000000;stroke:#000000;stroke-width:3.97491;stroke-linejoin:round;stroke-opacity:0"
+       x="111.28151"
+       y="65.546638"
+       id="text25"
+       transform="scale(0.99308604,1.0069621)"><tspan
+         id="tspan25"
+         style="stroke-width:3.97491"
+         x="111.28151"
+         y="65.546638">Tandoor</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:oblique;font-weight:900;font-size:5.60906px;font-family:Avenir;-inkscape-font-specification:'Avenir Heavy Oblique';text-align:center;text-anchor:middle;fill:#000000;stroke:#000000;stroke-width:3.97491;stroke-linejoin:round;stroke-opacity:0"
+       x="147.05182"
+       y="107.06877"
+       id="text26"
+       transform="scale(0.99308604,1.0069621)"><tspan
+         id="tspan26"
+         style="font-style:normal;stroke-width:3.97491"
+         x="147.05182"
+         y="107.06877">Entrance</tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.52221184,0,0,0.52950853,1.1745977,-0.16779288)"
+       id="text27"
+       style="font-style:oblique;font-weight:900;font-size:10.6667px;font-family:Avenir;-inkscape-font-specification:'Avenir Heavy Oblique';text-align:center;white-space:pre;shape-inside:url(#rect27);display:inline;fill:#000000;stroke:#000000;stroke-width:7.55906;stroke-linejoin:round;stroke-opacity:0"><tspan
+         x="37.097606"
+         y="20.207896"
+         id="tspan4"><tspan
+           style="font-style:normal"
+           id="tspan3">Exit</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:oblique;font-weight:900;font-size:2.80452px;font-family:Avenir;-inkscape-font-specification:'Avenir Heavy Oblique';text-align:center;text-anchor:middle;fill:#000000;stroke:#000000;stroke-width:3.97491;stroke-linejoin:round;stroke-opacity:0"
+       x="176.92863"
+       y="74.543152"
+       id="text28"
+       transform="scale(0.99308604,1.0069621)"><tspan
+         id="tspan28"
+         style="font-size:2.80452px;stroke-width:3.97491"
+         x="176.92863"
+         y="74.543152">Teaching</tspan><tspan
+         style="font-size:2.80452px;stroke-width:3.97491"
+         x="176.92863"
+         y="78.048805"
+         id="tspan29">Kitchen</tspan></text>
   </g>
- </g>
 </svg>
