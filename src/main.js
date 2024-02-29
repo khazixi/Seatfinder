@@ -13,7 +13,7 @@ function renderRoot() {
       <h2> Usage </h2>
       <ol>
         <li> Select A dining hall </li>
-        <li> Click on the map where you are seated </li>
+        <li> Click on the map based on where you are seated </li>
         <li> Copy the Link </li>
         <li> Share it with your friends</li>
       </ol>
