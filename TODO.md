@@ -7,12 +7,12 @@
     - [ ] Ensure that Service Worker Caching does not prevent link sharing
         - Make Serive Workers Cache Assets Only?
 - [ ] Add CSS to the page for a proper theme
-- [ ] Get Seating Arrangement & Maps
-    - [ ] Worcester
+- [ ] Get Labels & Maps
+    - [X] Worcester
         - [X] Map
     - [ ] Frank
         - [X] Map
-    - [ ] Hampshire
+    - [X] Hampshire
         - [X] Map
     - [ ] Berkshire
         - [X] Map
