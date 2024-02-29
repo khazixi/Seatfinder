@@ -6,13 +6,17 @@
 - [X] Offline Support (PWA)
     - [ ] Ensure that Service Worker Caching does not prevent link sharing
         - Make Serive Workers Cache Assets Only?
-- [ ] Add CSS to the page for a proper theme
+- [X] Add CSS to the page for a proper theme
 - [ ] Get Labels & Maps
     - [X] Worcester
         - [X] Map
+        - [X] Labels
     - [ ] Frank
         - [X] Map
+        - [ ] Labels
     - [X] Hampshire
         - [X] Map
+        - [X] Labels
     - [ ] Berkshire
         - [X] Map
+        - [ ] Labels
