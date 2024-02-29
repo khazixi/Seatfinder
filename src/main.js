@@ -18,6 +18,7 @@ function renderRoot() {
 function renderEditor(name) {
   document.querySelector('#app').innerHTML = `
       <h1> ${name} </h1>
+      <button> Back </button>
       <h2> Map goes here </h2>
       <img src="/${name}.svg">
     `
@@ -25,6 +26,12 @@ function renderEditor(name) {
   const img = document.querySelector('img')
 
   img.addEventListener('click', e => onImageSelection(e, name))
+
+  const button = document.querySelector('button')
+  button.addEventListener('click', () => {
+    renderRoot()
+    history.pushState({}, "", "/")
+  })
 }
 
 /** @param {Event} e */
