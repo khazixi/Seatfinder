@@ -18,6 +18,14 @@ function renderRoot() {
         <li> Share it with your friends</li>
       </ol>
     </section>
+
+    <section>
+      <h2> Contact </h2>
+      <h3> Email </h3>
+      <a href="mailto:jsimmonds@umass.edu">jsimmonds@umass.edu</a>
+      <h3> Source Code </h3>
+      <a href="https://github.com/khazixi/Seatfinder"> The Source Code </a>
+    </section>
   `
   const selectQuery = document.querySelector('select');
   selectQuery.addEventListener('change', onSelectChange);
