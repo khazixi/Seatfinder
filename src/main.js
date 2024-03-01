@@ -21,10 +21,11 @@ function renderRoot() {
 
     <section>
       <h2> Contact </h2>
-      <h3> Email </h3>
-      <a href="mailto:jsimmonds@umass.edu">jsimmonds@umass.edu</a>
-      <h3> Source Code </h3>
-      <a href="https://github.com/khazixi/Seatfinder"> The Source Code </a>
+      <p>
+        You can email me at <a href="mailto:jsimmonds@umass.edu">jsimmonds@umass.edu</a>
+        <h3> Source Code </h3>
+        <a href="https://github.com/khazixi/Seatfinder"> The Source Code </a>
+      </p>
     </section>
   `
   const selectQuery = document.querySelector('select');
