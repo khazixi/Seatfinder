@@ -4,16 +4,16 @@
     - [X] Hampshire
     - [X] Berkshire
 - [X] Offline Support (PWA)
-    - [ ] Ensure that Service Worker Caching does not prevent link sharing
+    - [X] Ensure that Service Worker Caching does not prevent link sharing
         - Make Serive Workers Cache Assets Only?
 - [X] Add CSS to the page for a proper theme
 - [ ] Get Labels & Maps
     - [X] Worcester
         - [X] Map
         - [X] Labels
-    - [ ] Frank
+    - [X] Frank
         - [X] Map
-        - [ ] Labels
+        - [X] Labels
     - [X] Hampshire
         - [X] Map
         - [X] Labels
