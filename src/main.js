@@ -65,13 +65,15 @@ function onSelectChange(e) {
   */
 function addMarker(x, y) {
   const p = document.createElement('p')
-  p.style.position = 'absolute'
-  p.style.background = 'blue'
-  p.style.height = '50px'
-  p.style.width = '50px'
+  // p.classList.add('marker')
+  // p.style.position = 'absolute'
+  // p.style.background = 'blue'
+  // p.style.height = '50px'
+  // p.style.width = '50px'
+  // p.style.borderRadius = '100%'
   p.style.left = `${x - 25}px`
   p.style.top = `${y - 25}px`
-  p.style.borderRadius = '100%'
+  p.classList.add('marker')
 
   document.querySelector('p')?.remove()
   document.querySelector('#app').insertAdjacentElement('beforeend', p)
