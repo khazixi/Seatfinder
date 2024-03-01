@@ -1,12 +1,301 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
-<svg width="210mm" height="297mm" version="1.1" viewBox="0 0 210 297" xmlns="http://www.w3.org/2000/svg">
- <g stroke="#000" stroke-linejoin="round" stroke-width="2">
-  <rect x="40.092" y="101.9" width="143.66" height="97.724" fill="#fff"/>
-  <g>
-   <rect x="39.905" y="60.635" width="47.16" height="69.963"/>
-   <rect x="62.189" y="146.66" width="23.839" height="21.766"/>
-   <rect x="101.06" y="121.27" width="50.27" height="52.343"/>
+
+<svg
+   width="800"
+   height="600"
+   viewBox="0 0 211.66667 158.75"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.3.2 (091e20e, 2023-11-25)"
+   sodipodi:docname="berkshire.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showguides="false"
+     inkscape:zoom="0.78686897"
+     inkscape:cx="343.1321"
+     inkscape:cy="310.72518"
+     inkscape:window-width="1440"
+     inkscape:window-height="738"
+     inkscape:window-x="0"
+     inkscape:window-y="25"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:#4c4c4c;fill-opacity:1;stroke:#7f7f7f;stroke-width:3.93252;stroke-linejoin:round;stroke-opacity:0"
+       id="rect1"
+       width="157.85255"
+       height="82.482521"
+       x="0.5104928"
+       y="75.880547" />
+    <rect
+       style="fill:#4c4c4c;fill-opacity:1;stroke:#7f7f7f;stroke-width:3.83068;stroke-linejoin:round;stroke-opacity:0"
+       id="rect2"
+       width="211.63525"
+       height="113.49151"
+       x="0.45956981"
+       y="31.366716" />
+    <rect
+       style="fill:#4c4c4c;fill-opacity:1;stroke:#7f7f7f;stroke-width:3.90827;stroke-linejoin:round;stroke-opacity:0"
+       id="rect3"
+       width="53.768559"
+       height="78.711159"
+       x="24.35651"
+       y="-0.58609623" />
+    <rect
+       style="fill:#7f7f7f;fill-opacity:1;stroke:#7f7f7f;stroke-width:3.996;stroke-linejoin:round;stroke-opacity:0"
+       id="rect4"
+       width="72.116669"
+       height="14.64023"
+       x="67.778824"
+       y="125.7975" />
+    <rect
+       style="fill:#7f7f7f;fill-opacity:1;stroke:#7f7f7f;stroke-width:4.64683;stroke-linejoin:round;stroke-opacity:0"
+       id="rect4-5"
+       width="40.016464"
+       height="35.678623"
+       x="157.86882"
+       y="102.12375" />
+    <rect
+       style="fill:#7f7f7f;fill-opacity:1;stroke:#7f7f7f;stroke-width:4.25826;stroke-linejoin:round;stroke-opacity:0"
+       id="rect4-5-9"
+       width="37.151646"
+       height="32.271576"
+       x="91.993019"
+       y="69.317085" />
+    <rect
+       style="fill:#7f7f7f;fill-opacity:1;stroke:#7f7f7f;stroke-width:4.9143;stroke-linejoin:round;stroke-opacity:0"
+       id="rect4-5-9-7"
+       width="50.507572"
+       height="31.615538"
+       x="80.389771"
+       y="53.674389" />
+    <circle
+       style="fill:#7f7f7f;fill-opacity:1;stroke:#7f7f7f;stroke-width:3.996;stroke-linejoin:round;stroke-opacity:0"
+       id="path5"
+       cx="123.35745"
+       cy="95.161461"
+       r="14.36911" />
+    <circle
+       style="fill:#7f7f7f;fill-opacity:1;stroke:#7f7f7f;stroke-width:3.996;stroke-linejoin:round;stroke-opacity:0"
+       id="path5-2"
+       cx="87.409546"
+       cy="94.922234"
+       r="14.36911" />
+    <text
+       xml:space="preserve"
+       style="font-weight:500;font-size:5.64444px;font-family:Avenir;-inkscape-font-specification:'Avenir Medium';text-align:center;text-anchor:middle;fill:#be4040;fill-opacity:1;stroke:#7f7f7f;stroke-width:3.996;stroke-linejoin:round;stroke-opacity:0"
+       x="93.805885"
+       y="134.47319"
+       id="text5"><tspan
+         sodipodi:role="line"
+         id="tspan5"
+         style="fill:#000000;fill-opacity:1;stroke-width:3.996"
+         x="93.805885"
+         y="134.47319">Salad Bar</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-weight:500;font-size:5.64444px;font-family:Avenir;-inkscape-font-specification:'Avenir Medium';text-align:center;text-anchor:middle;fill:#be4040;fill-opacity:1;stroke:#7f7f7f;stroke-width:3.996;stroke-linejoin:round;stroke-opacity:0"
+       x="52.390331"
+       y="155.49213"
+       id="text5-3"
+       transform="rotate(-33.329346)"><tspan
+         sodipodi:role="line"
+         id="tspan5-3"
+         style="fill:#000000;fill-opacity:1;stroke-width:3.996"
+         x="52.390331"
+         y="155.49213">Street Food</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-weight:500;font-size:5.64444px;font-family:Avenir;-inkscape-font-specification:'Avenir Medium';text-align:center;text-anchor:middle;fill:#be4040;fill-opacity:1;stroke:#7f7f7f;stroke-width:3.996;stroke-linejoin:round;stroke-opacity:0"
+       x="126.55796"
+       y="31.826948"
+       id="text5-3-5"
+       transform="rotate(35.112807)"><tspan
+         sodipodi:role="line"
+         id="tspan5-3-1"
+         style="fill:#000000;fill-opacity:1;stroke-width:3.996"
+         x="126.55796"
+         y="31.826948">Soup</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-weight:500;font-size:5.64444px;font-family:Avenir;-inkscape-font-specification:'Avenir Medium';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:#7f7f7f;stroke-width:3.996;stroke-linejoin:round;stroke-opacity:0"
+       x="107.32569"
+       y="96.294998"
+       id="text6"><tspan
+         sodipodi:role="line"
+         id="tspan6"
+         style="stroke-width:3.996"
+         x="107.32569"
+         y="96.294998">Stir Fry</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-weight:500;font-size:5.64444px;font-family:Avenir;-inkscape-font-specification:'Avenir Medium';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:#7f7f7f;stroke-width:3.996;stroke-linejoin:round;stroke-opacity:0"
+       x="119.25077"
+       y="78.705505"
+       id="text7"><tspan
+         sodipodi:role="line"
+         id="tspan7"
+         style="stroke-width:3.996"
+         x="119.25077"
+         y="78.705505">Grill</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-weight:500;font-size:5.64444px;font-family:Avenir;-inkscape-font-specification:'Avenir Medium';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:#7f7f7f;stroke-width:3.996;stroke-linejoin:round;stroke-opacity:0"
+       x="118.05827"
+       y="65.289795"
+       id="text8"><tspan
+         sodipodi:role="line"
+         id="tspan8"
+         style="stroke-width:3.996"
+         x="118.05827"
+         y="65.289795">Deserts</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-weight:500;font-size:5.64444px;font-family:Avenir;-inkscape-font-specification:'Avenir Medium';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:#7f7f7f;stroke-width:3.996;stroke-linejoin:round;stroke-opacity:0"
+       x="179.47241"
+       y="120.44328"
+       id="text10"><tspan
+         sodipodi:role="line"
+         id="tspan10"
+         style="stroke-width:3.996"
+         x="179.47241"
+         y="120.44328">Beverages</tspan></text>
+    <rect
+       style="fill:#7f7f7f;fill-opacity:1;stroke:#7f7f7f;stroke-width:3.69851;stroke-linejoin:round;stroke-opacity:0"
+       id="rect10"
+       width="16.992592"
+       height="42.929638"
+       x="22.508904"
+       y="93.463112" />
+    <rect
+       style="fill:#808080;fill-opacity:1;stroke:#7f7f7f;stroke-width:3.21598;stroke-linejoin:round;stroke-opacity:0"
+       id="rect10-6"
+       width="12.705094"
+       height="43.41217"
+       x="0.4189035"
+       y="93.191139" />
+    <circle
+       style="fill:#808080;fill-opacity:1;stroke:#7f7f7f;stroke-width:4.81452;stroke-linejoin:round;stroke-opacity:0"
+       id="path11"
+       cx="37.862122"
+       cy="99.872528"
+       r="16.882103" />
+    <circle
+       style="fill:#808080;fill-opacity:1;stroke:#7f7f7f;stroke-width:3.21469;stroke-linejoin:round;stroke-opacity:0"
+       id="path11-7"
+       cx="23.29867"
+       cy="63.891846"
+       r="11.272291" />
+    <circle
+       style="fill:#808080;fill-opacity:1;stroke:#7f7f7f;stroke-width:3.21469;stroke-linejoin:round;stroke-opacity:0"
+       id="path11-7-0"
+       cx="35.060143"
+       cy="52.514763"
+       r="11.272291" />
+    <text
+       xml:space="preserve"
+       style="font-weight:500;font-size:5.64444px;font-family:Avenir;-inkscape-font-specification:'Avenir Medium';text-align:center;text-anchor:middle;fill:#bf4040;fill-opacity:1;stroke:#7f7f7f;stroke-width:3.996;stroke-linejoin:round;stroke-opacity:0"
+       x="21.465139"
+       y="66.780426"
+       id="text11"><tspan
+         sodipodi:role="line"
+         id="tspan11"
+         style="fill:#000000;fill-opacity:1;stroke-width:3.996"
+         x="21.465139"
+         y="66.780426">Pizza</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-weight:500;font-size:5.64444px;font-family:Avenir;-inkscape-font-specification:'Avenir Medium';text-align:center;text-anchor:middle;fill:#bf4040;fill-opacity:1;stroke:#7f7f7f;stroke-width:3.996;stroke-linejoin:round;stroke-opacity:0"
+       x="33.798038"
+       y="54.342155"
+       id="text11-9"><tspan
+         sodipodi:role="line"
+         id="tspan11-8"
+         style="fill:#000000;fill-opacity:1;stroke-width:3.996"
+         x="33.798038"
+         y="54.342155">Deli/Sushi</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-weight:500;font-size:5.64444px;font-family:Avenir;-inkscape-font-specification:'Avenir Medium';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:#7f7f7f;stroke-width:3.996;stroke-linejoin:round;stroke-opacity:0"
+       x="37.563992"
+       y="100.7669"
+       id="text12"><tspan
+         sodipodi:role="line"
+         id="tspan12"
+         style="stroke-width:3.996"
+         x="37.563992"
+         y="100.7669">Veggilicious</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-weight:500;font-size:5.64444px;font-family:Avenir;-inkscape-font-specification:'Avenir Medium';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:#7f7f7f;stroke-width:3.996;stroke-linejoin:round;stroke-opacity:0"
+       x="-115.08981"
+       y="7.7225742"
+       id="text13"
+       transform="rotate(-90)"><tspan
+         sodipodi:role="line"
+         id="tspan13"
+         style="stroke-width:3.996"
+         x="-115.08981"
+         y="7.7225742">Beverages</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-weight:500;font-size:5.64444px;font-family:Avenir;-inkscape-font-specification:'Avenir Medium';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:#7f7f7f;stroke-width:3.996;stroke-linejoin:round;stroke-opacity:0"
+       x="33.688343"
+       y="127.89645"
+       id="text14"><tspan
+         sodipodi:role="line"
+         id="tspan14"
+         style="stroke-width:3.996"
+         x="33.688343"
+         y="127.89645">Fruits</tspan></text>
+    <rect
+       style="fill:#808080;fill-opacity:1;stroke:#7f7f7f;stroke-width:3.996;stroke-linejoin:round;stroke-opacity:0"
+       id="rect14"
+       width="45.017166"
+       height="14.906346"
+       x="80.196144"
+       y="40.247135" />
+    <text
+       xml:space="preserve"
+       style="font-weight:500;font-size:5.64444px;font-family:Avenir;-inkscape-font-specification:'Avenir Medium';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:#7f7f7f;stroke-width:3.996;stroke-linejoin:round;stroke-opacity:0"
+       x="70.001823"
+       y="-83.805984"
+       id="text9"
+       transform="rotate(90)"><tspan
+         sodipodi:role="line"
+         id="tspan9"
+         style="stroke-width:3.996"
+         x="70.001823"
+         y="-83.805984">Meditarranean</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-weight:500;font-size:5.64444px;font-family:Avenir;-inkscape-font-specification:'Avenir Medium';text-align:center;text-anchor:middle;fill:#c04141;fill-opacity:1;stroke:#7f7f7f;stroke-width:3.996;stroke-linejoin:round;stroke-opacity:0"
+       x="103.45004"
+       y="49.190941"
+       id="text15"><tspan
+         sodipodi:role="line"
+         id="tspan15"
+         style="fill:#000000;fill-opacity:1;stroke-width:3.996"
+         x="103.45004"
+         y="49.190941">Dish Return</tspan></text>
   </g>
- </g>
 </svg>
