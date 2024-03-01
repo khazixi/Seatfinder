@@ -97,7 +97,7 @@ button:focus-visible {
 
 .marker {
   position: absolute;
-  background: blue;
+  background: #ff6666;
   height: 50px;
   width: 50px;
   border-radius: 100%;
@@ -111,7 +111,7 @@ button:focus-visible {
 
   .marker {
     position: absolute;
-    background: blue;
+    background: #ff6666;
     height: 30px;
     width: 30px;
     border-radius: 100%;
