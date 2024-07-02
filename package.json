@@ -11,5 +11,6 @@
   "devDependencies": {
     "vite": "^5.1.4",
     "vite-plugin-pwa": "^0.19.2"
-  }
+  },
+  "packageManager": "pnpm@9.4.0"
 }
